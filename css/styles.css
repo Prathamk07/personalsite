@@ -44,8 +44,8 @@ p{
     text-align: center;   
 }
 .clouds{
-    height: auto;
-    width: auto;
+
+    width: 50%;
     position: relative;
     bottom: 10px;
     left: 0px;
@@ -55,12 +55,13 @@ p{
 }
 .clouds2{
     position:relative;
-    left : 20%;
+    left : 30%;
     bottom: 40px;
-    right: 60%
+    right: 90%;
+    width : 50%;
 }
 .mountains{
-    height: 720;
+    height: 100%;
     width: 100%;
     position:relative;
     bottom: 80px;
