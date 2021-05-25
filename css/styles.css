@@ -1,0 +1,87 @@
+
+body{
+    background-colour: rgb(199, 252, 247) ;
+    text-align: center;
+}  
+h1{
+    padding-left: 20px;
+    font-family: 'Rouge Script', cursive;
+    font-size: 520%;
+    margin: 0%;
+    display: block;
+    color: rgb(90, 90, 90);
+}
+h2{
+    font-family: 'Manrope', sans-serif;
+    margin:0;
+}
+h3{
+    font-family: 'Manrope', sans-serif;
+    margin: 0%;
+}
+.web-developer{
+    font-weight: bold;
+}
+.giphy{
+    width: 30%;
+}
+
+
+.skill-row{
+    margin: 100px;
+
+}
+p{
+    padding-left: 20px;
+    font-family: 'Martel', serif;
+    margin-top: 0%;
+    display: block;
+}
+.skillsp{
+    padding-top: 0;
+}
+.topcontainer{
+    text-align: center;   
+}
+.clouds{
+    height: auto;
+    width: auto;
+    position: relative;
+    bottom: 10px;
+    left: 20px;
+    display: inline-block;
+    margin-top: 0;
+    margin-right: 60%;
+}
+.clouds2{
+    position:relative;
+    left : 400px;
+    bottom: 110px;
+}
+.mountains{
+    height: 720;
+    width: 100%;
+    position:relative;
+    bottom: 90px;
+    margin: 0%;
+}
+#profilepic{
+    border-radius: 100%;
+    width: 15%;
+}
+.footer-link{
+
+    margin: 25px;
+    padding-top: 0;
+    height: 30px;
+}
+.contact-me{
+    height: 300%;
+}
+#get-in-touch{
+    padding: 20px;
+}
+.btn{
+    display: block;
+    height: 30px;
+}
