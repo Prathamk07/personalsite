@@ -58,7 +58,8 @@ p{
     left : 30%;
     bottom: 40px;
     right: 90%;
-    width : 50%;
+    width : 40%;
+    padding-bottom: 5%;
 }
 .mountains{
     height: 100%;
