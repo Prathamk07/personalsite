@@ -48,21 +48,22 @@ p{
     width: auto;
     position: relative;
     bottom: 10px;
-    left: 20px;
+    left: 0px;
     display: inline-block;
     margin-top: 0;
     margin-right: 60%;
 }
 .clouds2{
     position:relative;
-    left : 350px;
-    bottom: 110px;
+    left : 20%;
+    bottom: 40px;
+    right: 60%
 }
 .mountains{
     height: 720;
     width: 100%;
     position:relative;
-    bottom: 90px;
+    bottom: 80px;
     margin: 0%;
 }
 #profilepic{
